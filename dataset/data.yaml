@@ -1,0 +1,7 @@
+path : /Users/admin/Desktop/internship/Datamatics/Projects/Invoicing/dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 4
+names: ['0', '1', 'Paragraph', 'Table']
